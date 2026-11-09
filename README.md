@@ -51,12 +51,12 @@ Today I'm a **Developer & IT Support engineer at NFC Bank**, building internal t
 
 | Project | What it is | Role | Stack |
 |---|---|:---:|---|
-| **CarerPoint** 🔒 | Home-care management platform for UK agencies: admin portal, field-carer mobile app (GPS check-in, eMAR, biometrics), family portal, API, docs and a shared design system | 🛠️ 🧭 🧪 | NestJS · Nuxt 4 · Flutter · PostgreSQL · Bun |
-| **[ITSER](https://itser.co.uk)** 🔒 | Bilingual website and admin back-office for a UK digital agency, including billing and invoicing | 🛠️ 🧭 🧪 | Astro · Node.js · Bun · Stripe |
-| **Pressing Manager** 🔒 | Desktop app to run a dry-cleaning business: order lifecycle, CRM with QR codes, dynamic pricing, financial reports, role-based access | 🛠️ 🧭 🧪 | Tauri · React · Bun · Prisma · SQLite |
-| **Metron** 🔒 | Offline-first water-billing app for boreholes and rental properties: meter readings, invoices, payments and debts | 🛠️ 🧭 🧪 | Flutter · Riverpod · Supabase · PowerSync |
-| **[MySky](https://github.com/skia-dac/mysky)** | Organization app for students (Android & iOS): timetables, homework, exams & grades, calendar, focus mode | 🛠️ 🧭 🧪 | Expo · TypeScript · Supabase · Jest |
-| **Wi-Fi captive portal** 🔒 | Rewrite of a hotspot portal: plans, vouchers, branding, SMS verification and i18n on a legacy RADIUS stack | 🛠️ 🧪 | PHP · CoovaChilli · RADIUS |
+| **CarerPoint** 🔒 | Home-care management platform for UK agencies: admin portal, field-carer mobile app (GPS check-in, eMAR, biometrics), family portal, API, docs and a shared design system | 🛠️&nbsp;🧭&nbsp;🧪 | NestJS · Nuxt 4 · Flutter · PostgreSQL · Bun |
+| **[ITSER](https://itser.co.uk)** 🔒 | Bilingual website and admin back-office for a UK digital agency, including billing and invoicing | 🛠️&nbsp;🧭&nbsp;🧪 | Astro · Node.js · Bun · Stripe |
+| **Pressing Manager** 🔒 | Desktop app to run a dry-cleaning business: order lifecycle, CRM with QR codes, dynamic pricing, financial reports, role-based access | 🛠️&nbsp;🧭&nbsp;🧪 | Tauri · React · Bun · Prisma · SQLite |
+| **Metron** 🔒 | Offline-first water-billing app for boreholes and rental properties: meter readings, invoices, payments and debts | 🛠️&nbsp;🧭&nbsp;🧪 | Flutter · Riverpod · Supabase · PowerSync |
+| **[MySky](https://github.com/skia-dac/mysky)** | Organization app for students (Android & iOS): timetables, homework, exams & grades, calendar, focus mode | 🛠️&nbsp;🧭&nbsp;🧪 | Expo · TypeScript · Supabase · Jest |
+| **Wi-Fi captive portal** 🔒 | Rewrite of a hotspot portal: plans, vouchers, branding, SMS verification and i18n on a legacy RADIUS stack | 🛠️&nbsp;🧪 | PHP · CoovaChilli · RADIUS |
 | **[Charity website](https://github.com/skia-dac/association)** | Bilingual (EN/FR) website MVP for non-profits | 🛠️ | React · Vite · Tailwind CSS · Express |
 
 > Private projects are client or product work. Happy to walk you through them in a demo.
